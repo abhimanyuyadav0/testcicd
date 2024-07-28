@@ -6,7 +6,7 @@ const App = () => (
   <ThemeCustomization>
     <ScrollTop>
       <Routes />
-    </ScrollTop>
+    </ScrollTop> 
   </ThemeCustomization>
 );
 
